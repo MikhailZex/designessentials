@@ -1,0 +1,21 @@
+{
+    "publisher": "mikhail-zex",
+    "name": "designessentials",
+    "displayName": "Design Essentials (diagrams, spellings and git)",
+    "description": "A collection of extensions that make designing, documenting and man-handling git easier",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "eamodio.gitlens", 
+        "hediet.vscode-drawio", 
+        "mhutchie.git-graph", 
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one", 
+        "vscode-icons-team.vscode-icons"
+    ]
+}
